@@ -4,15 +4,16 @@ The goal of this project was to explore the progression of the cryptocurrencies 
 
 This project utilised Microsoft Excel, Python, SQL and Tableau.
 
-Link to Bitcoin Tableau Dashboard for this project:
+Link to Bitcoin Tableau Dashboard for this project: https://public.tableau.com/views/BitcoinBTC/BitcoinHistoricalPriceData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+Link to Ether Tableau Dashboard for this project: https://public.tableau.com/views/EtherETH/EtherHistoricalPriceData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 
-Link to Ether Tableau Dashboard for this project: 
 
 
+Link to Binance coin Tableau Dashboard for this project: https://public.tableau.com/views/BinanceCoinBNB/BinanceCoinHistoricalPriceData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Link to Binance coin Tableau Dashboard for this project: 
 
 
 
